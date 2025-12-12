@@ -1,0 +1,14 @@
+C:\Users\ypono\source\repos\PV_521_csharp\homework\bin\Debug\net8.0\homework.exe
+C:\Users\ypono\source\repos\PV_521_csharp\homework\bin\Debug\net8.0\homework.deps.json
+C:\Users\ypono\source\repos\PV_521_csharp\homework\bin\Debug\net8.0\homework.runtimeconfig.json
+C:\Users\ypono\source\repos\PV_521_csharp\homework\bin\Debug\net8.0\homework.dll
+C:\Users\ypono\source\repos\PV_521_csharp\homework\bin\Debug\net8.0\homework.pdb
+C:\Users\ypono\source\repos\PV_521_csharp\homework\obj\Debug\net8.0\homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ypono\source\repos\PV_521_csharp\homework\obj\Debug\net8.0\homework.AssemblyInfoInputs.cache
+C:\Users\ypono\source\repos\PV_521_csharp\homework\obj\Debug\net8.0\homework.AssemblyInfo.cs
+C:\Users\ypono\source\repos\PV_521_csharp\homework\obj\Debug\net8.0\homework.csproj.CoreCompileInputs.cache
+C:\Users\ypono\source\repos\PV_521_csharp\homework\obj\Debug\net8.0\homework.dll
+C:\Users\ypono\source\repos\PV_521_csharp\homework\obj\Debug\net8.0\refint\homework.dll
+C:\Users\ypono\source\repos\PV_521_csharp\homework\obj\Debug\net8.0\homework.pdb
+C:\Users\ypono\source\repos\PV_521_csharp\homework\obj\Debug\net8.0\homework.genruntimeconfig.cache
+C:\Users\ypono\source\repos\PV_521_csharp\homework\obj\Debug\net8.0\ref\homework.dll
