@@ -11,11 +11,21 @@ namespace Less_classes
         public string Name {  get; set; }
         public int Age { get; set; }
 
-        public int Salary { get; set; }
+        public int Salary
+        {
+            get { return Salary; }
+
+            set
+            {
+                if (value < 0)
+                    throw new ArgumentException("Error");
+                Salary = value;
+            }
+        }
 
         public void Show()
         {
-            Console.WriteLine($"Employee: {Name}, {Age} age");
+            Console.WriteLine($"Employee: {Name}, {Age} age, salary {Salary}");
         }
 
     }

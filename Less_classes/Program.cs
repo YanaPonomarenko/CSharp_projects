@@ -1,4 +1,6 @@
-﻿namespace Less_classes
+﻿using System.Linq.Expressions;
+
+namespace Less_classes
 {
     internal class Program
     {
