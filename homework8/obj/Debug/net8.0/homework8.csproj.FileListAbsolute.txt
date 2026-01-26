@@ -1,0 +1,5 @@
+C:\Users\ypono\source\repos\PV_521_csharp\homework8\obj\Debug\net8.0\homework8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ypono\source\repos\PV_521_csharp\homework8\obj\Debug\net8.0\homework8.AssemblyInfoInputs.cache
+C:\Users\ypono\source\repos\PV_521_csharp\homework8\obj\Debug\net8.0\homework8.AssemblyInfo.cs
+C:\Users\ypono\source\repos\PV_521_csharp\homework8\obj\Debug\net8.0\homework8.csproj.CoreCompileInputs.cache
+C:\Users\ypono\source\repos\PV_521_csharp\homework8\obj\Debug\net8.0\homework8.sourcelink.json
