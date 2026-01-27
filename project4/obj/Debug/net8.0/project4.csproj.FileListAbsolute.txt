@@ -1,0 +1,15 @@
+C:\Users\ypono\source\repos\PV_521_csharp\project4\bin\Debug\net8.0\project4.exe
+C:\Users\ypono\source\repos\PV_521_csharp\project4\bin\Debug\net8.0\project4.deps.json
+C:\Users\ypono\source\repos\PV_521_csharp\project4\bin\Debug\net8.0\project4.runtimeconfig.json
+C:\Users\ypono\source\repos\PV_521_csharp\project4\bin\Debug\net8.0\project4.dll
+C:\Users\ypono\source\repos\PV_521_csharp\project4\bin\Debug\net8.0\project4.pdb
+C:\Users\ypono\source\repos\PV_521_csharp\project4\obj\Debug\net8.0\project4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ypono\source\repos\PV_521_csharp\project4\obj\Debug\net8.0\project4.AssemblyInfoInputs.cache
+C:\Users\ypono\source\repos\PV_521_csharp\project4\obj\Debug\net8.0\project4.AssemblyInfo.cs
+C:\Users\ypono\source\repos\PV_521_csharp\project4\obj\Debug\net8.0\project4.csproj.CoreCompileInputs.cache
+C:\Users\ypono\source\repos\PV_521_csharp\project4\obj\Debug\net8.0\project4.sourcelink.json
+C:\Users\ypono\source\repos\PV_521_csharp\project4\obj\Debug\net8.0\project4.dll
+C:\Users\ypono\source\repos\PV_521_csharp\project4\obj\Debug\net8.0\refint\project4.dll
+C:\Users\ypono\source\repos\PV_521_csharp\project4\obj\Debug\net8.0\project4.pdb
+C:\Users\ypono\source\repos\PV_521_csharp\project4\obj\Debug\net8.0\project4.genruntimeconfig.cache
+C:\Users\ypono\source\repos\PV_521_csharp\project4\obj\Debug\net8.0\ref\project4.dll
