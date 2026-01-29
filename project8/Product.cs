@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace project8
 {
-    internal class Product
+    internal class Product : IComparable<Product>
     {
         public Guid Id { get; set; }
         public string? Name { get; set; }
@@ -21,6 +21,13 @@ namespace project8
         public override string ToString()
         {
             return $"Product: {Name}, Price: {Price}, ID: {Id}";
+        }
+
+        //практика за 12.01
+        public int CompareTo(Product? other)
+        {
+            if (other == null) return 1;
+            return string.Compare(this.Name, other.Name, StringComparison.OrdinalIgnoreCase);
         }
     }
 }
